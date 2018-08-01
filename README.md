@@ -1,2 +1,2 @@
 # hello-world
-Start tutorial fro github
+Start tutorial for github
